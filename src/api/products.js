@@ -492,7 +492,7 @@ const products = {
       category: "Phone",
       description: "iPhone 14 Pro 128 GB",
       brand: "Apple",
-      color: ["white", "red", "blue", "purple", "black", "green"],
+      color: ["white","purple", "black"],
       memory: [128, 256, 512],
       rating: {
         stars: 4,
@@ -521,24 +521,6 @@ const products = {
           ],
         },
         {
-          variant: "red",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
-        {
-          variant: "blue",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
-        {
           variant: "purple",
           images: [
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
@@ -556,15 +538,6 @@ const products = {
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
           ],
         },
-        {
-          variant: "green",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
       ],
     },
     {
@@ -573,7 +546,7 @@ const products = {
       category: "Phone",
       description: "iPhone 14 Pro 256 GB",
       brand: "Apple",
-      color: ["white", "red", "blue", "purple", "black", "green"],
+      color: ["white", "purple", "black"],
       memory: [128, 256, 512],
       rating: {
         stars: 4,
@@ -602,24 +575,6 @@ const products = {
           ],
         },
         {
-          variant: "red",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
-        {
-          variant: "blue",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
-        {
           variant: "purple",
           images: [
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
@@ -637,15 +592,6 @@ const products = {
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
           ],
         },
-        {
-          variant: "green",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
       ],
     },
     {
@@ -654,7 +600,7 @@ const products = {
       category: "Phone",
       description: "iPhone 14 Pro 512 GB",
       brand: "Apple",
-      color: ["white", "red", "blue", "purple", "black", "green"],
+      color: ["white", "purple", "black"],
       memory: [128, 256, 512],
       rating: {
         stars: 4,
@@ -683,24 +629,6 @@ const products = {
           ],
         },
         {
-          variant: "red",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
-        {
-          variant: "blue",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
-        {
           variant: "purple",
           images: [
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
@@ -711,15 +639,6 @@ const products = {
         },
         {
           variant: "black",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
-        {
-          variant: "green",
           images: [
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
