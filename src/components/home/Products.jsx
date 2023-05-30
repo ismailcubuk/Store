@@ -14,11 +14,10 @@ function Products() {
 console.log("prd",Product.products);
   return (
     <div>
-      {Product.products.map((product) => (
+      {Product.phones.map((product) => (
         <div key={product.id}>
-          <h3>{product.name}</h3>
-          <p>Price: {product.price}</p>
-          <img src={product.img} alt="" />
+          <h3>{product.tittle}</h3>
+          <p>Price: {product.price.quantity}</p>
         </div>
       ))}
     </div>

@@ -296,15 +296,6 @@ const products = {
           ],
         },
         {
-          variant: "purple",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
-        {
           variant: "black",
           images: [
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
@@ -377,15 +368,6 @@ const products = {
           ],
         },
         {
-          variant: "purple",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
-        {
           variant: "black",
           images: [
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
@@ -450,15 +432,6 @@ const products = {
         },
         {
           variant: "blue",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
-        {
-          variant: "purple",
           images: [
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
@@ -1059,7 +1032,7 @@ const products = {
       category: "Phone",
       description: "Samsung Galaxy Z Fold 4",
       brand: "SAMSUNG",
-      color: ["white", "black", "green"],
+      color: ["white", "black"],
       memory: [256],
       rating: {
         stars: 5,
@@ -1089,15 +1062,6 @@ const products = {
         },
         {
           variant: "black",
-          images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
-          ],
-        },
-        {
-          variant: "green",
           images: [
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
