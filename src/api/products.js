@@ -729,6 +729,51 @@ const products = {
         },
       ],
     },
+    {
+      id: 10,
+      tittle: "XİAOMİ POCO X4 GT 8GB/256GB",
+      category: "Phone",
+      description: "XİAOMİ POCO X4 GT 8GB/256GB",
+      brand: "XİAOMİ",
+      color: ["white", "black"],
+      memory: 256,
+      rating: {
+        stars: 3,
+        count: 192,
+      },
+      features: {
+        ProcessorSpeed: 2.73,
+        NumberofProcessors: 8,
+        display: "6.5",
+        processor: "ARM Cortex-A78",
+        ram: 8,
+        camera: 64,
+      },
+      price: {
+        quantity: 14.999,
+        currency: "TRY",
+      },
+      images: [
+        {
+          variant: "white",
+          images: [
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
+          ],
+        },
+        {
+          variant: "black",
+          images: [
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
+          ],
+        },
+      ],
+    },
   ],
 };
 
