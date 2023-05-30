@@ -811,7 +811,7 @@ const products = {
       ],
     },
     {
-      id: 11,
+      id: 12,
       tittle: "Xiaomi Redmi Note 12 6GB/128GB",
       category: "Phone",
       description: "Xiaomi Redmi Note 12 6GB/128GB",
@@ -865,7 +865,7 @@ const products = {
       ],
     },
     {
-      id: 12,
+      id: 13,
       tittle: "Samsung Galaxy S22 Ultra 128 GB",
       category: "Phone",
       description: "Samsung Galaxy S22 Ultra 128 GB",
@@ -919,7 +919,7 @@ const products = {
       ],
     },
     {
-      id: 12,
+      id: 14,
       tittle: "Samsung Galaxy S22 Ultra 256 GB",
       category: "Phone",
       description: "Samsung Galaxy S22 Ultra 256 GB",
@@ -973,7 +973,7 @@ const products = {
       ],
     },
     {
-      id: 12,
+      id: 15,
       tittle: "Samsung Galaxy S22 Ultra 512 GB",
       category: "Phone",
       description: "Samsung Galaxy S22 Ultra 512 GB",
@@ -1027,7 +1027,7 @@ const products = {
       ],
     },
     {
-      id: 11,
+      id: 16,
       tittle: "Samsung Galaxy S23 Ultra 256 GB",
       category: "Phone",
       description: "Samsung Galaxy S23 Ultra 256 GB",
@@ -1081,7 +1081,7 @@ const products = {
       ],
     },
     {
-      id: 11,
+      id: 17,
       tittle: "Samsung Galaxy S23 Ultra 512 GB",
       category: "Phone",
       description: "Samsung Galaxy S23 Ultra 512 GB",
@@ -1135,7 +1135,7 @@ const products = {
       ],
     },
     {
-      id: 11,
+      id: 18,
       tittle: "Samsung Galaxy Z Fold 4",
       category: "Phone",
       description: "Samsung Galaxy Z Fold 4",
