@@ -16,7 +16,7 @@ const products = {
         display: "6.1",
         processor: "A14 Bionic",
         ram: 4,
-        display_type: "Super Retina XDR",
+        camera: 12,
       },
       price:{
         quantity : 26.999,
@@ -95,7 +95,7 @@ const products = {
         display: "6.1",
         processor: "A14 Bionic",
         ram: 4,
-        display_type: "Super Retina XDR",
+        camera: 12,
       },
       price:{
         quantity : 28.399,
@@ -174,7 +174,7 @@ const products = {
         display: "6.1",
         processor: "A14 Bionic",
         ram: 4,
-        display_type: "Super Retina XDR",
+        camera: 12,
       },
       price:{
         quantity : 31.199,
@@ -253,7 +253,7 @@ const products = {
         display: "6.1",
         processor: "A15 Bionic",
         ram: 6,
-        display_type: "Super Retina XDR",
+        camera: 12,
       },
       price:{
         quantity : 29.999,
@@ -332,7 +332,7 @@ const products = {
           display: "6.1",
           processor: "A15 Bionic",
           ram: 6,
-          display_type: "Super Retina XDR",
+          camera: 12,
         },
       price:{
         quantity : 32.799,
@@ -411,7 +411,7 @@ const products = {
           display: "6.1",
           processor: "A15 Bionic",
           ram: 6,
-          display_type: "Super Retina XDR",
+          camera: 12,
         },
       price:{
         quantity : 38.399,
