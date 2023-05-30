@@ -15,7 +15,7 @@ const products = {
       features: {
         ProcessorSpeed: null,
         NumberofProcessors: 6,
-        display: "6.1",
+        display: 6.1,
         processor: "A14 Bionic",
         ram: 4,
         camera: 12,
@@ -96,7 +96,7 @@ const products = {
       features: {
         ProcessorSpeed: null,
         NumberofProcessors: 6,
-        display: "6.1",
+        display: 6.1,
         processor: "A14 Bionic",
         ram: 4,
         camera: 12,
@@ -177,7 +177,7 @@ const products = {
       features: {
         ProcessorSpeed: null,
         NumberofProcessors: 6,
-        display: "6.1",
+        display: 6.1,
         processor: "A14 Bionic",
         ram: 4,
         camera: 12,
@@ -258,7 +258,7 @@ const products = {
       features: {
         ProcessorSpeed: null,
         NumberofProcessors: 6,
-        display: "6.1",
+        display: 6.1,
         processor: "A15 Bionic",
         ram: 6,
         camera: 12,
@@ -339,7 +339,7 @@ const products = {
       features: {
         ProcessorSpeed: null,
         NumberofProcessors: 6,
-        display: "6.1",
+        display: 6.1,
         processor: "A15 Bionic",
         ram: 6,
         camera: 12,
@@ -420,7 +420,7 @@ const products = {
       features: {
         ProcessorSpeed: null,
         NumberofProcessors: 6,
-        display: "6.1",
+        display: 6.1,
         processor: "A15 Bionic",
         ram: 6,
         camera: 12,
@@ -501,7 +501,7 @@ const products = {
       features: {
         ProcessorSpeed: null,
         NumberofProcessors: 6,
-        display: "6.1",
+        display: 6.1,
         processor: "A15 Bionic",
         ram: 6,
         camera: 48,
@@ -582,7 +582,7 @@ const products = {
       features: {
         ProcessorSpeed: null,
         NumberofProcessors: 6,
-        display: "6.1",
+        display: 6.1,
         processor: "A15 Bionic",
         ram: 6,
         camera: 48,
@@ -663,7 +663,7 @@ const products = {
       features: {
         ProcessorSpeed: null,
         NumberofProcessors: 6,
-        display: "6.1",
+        display: 6.1,
         processor: "A15 Bionic",
         ram: 6,
         camera: 48,
@@ -744,7 +744,7 @@ const products = {
       features: {
         ProcessorSpeed: 2.73,
         NumberofProcessors: 8,
-        display: "6.5",
+        display: 6.6,
         processor: "ARM Cortex-A78",
         ram: 8,
         camera: 64,
@@ -789,7 +789,7 @@ const products = {
       features: {
         ProcessorSpeed: 2.2,
         NumberofProcessors: 8,
-        display: "6.5",
+        display: 6.67,
         processor: "ARM Cortex-A78",
         ram: 8,
         camera: 48,
@@ -801,6 +801,60 @@ const products = {
       images: [
         {
           variant: "black",
+          images: [
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
+          ],
+        },
+      ],
+    },
+    {
+      id: 11,
+      tittle: "Xiaomi Redmi Note 12 6GB/128GB",
+      category: "Phone",
+      description: "Xiaomi Redmi Note 12 6GB/128GB",
+      brand: "XİAOMİ",
+      color: ["grey", "green", "blue"],
+      memory: 256,
+      rating: {
+        stars: 3,
+        count: 10,
+      },
+      features: {
+        ProcessorSpeed: 2,
+        NumberofProcessors: 8,
+        display: 6.67,
+        processor: "Snapdragon 685",
+        ram: 8,
+        camera: 50,
+      },
+      price: {
+        quantity: 8.849,
+        currency: "TRY",
+      },
+      images: [
+        {
+          variant: "grey",
+          images: [
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
+          ],
+        },
+        {
+          variant: "green",
+          images: [
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
+            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
+          ],
+        },
+        {
+          variant: "blue",
           images: [
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
             "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
