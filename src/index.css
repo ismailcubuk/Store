@@ -1,3 +1,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.newdiv{
+    height: 70px;
+    border: 1px solid white;
+    align-self: center;
+    opacity: 0.3;
+}
+.categoryHover:hover{
+    border-radius: 1.5rem;
+}
+@keyframes myAnimation {
+    0% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(1.5);
+    }
+  }
+.categoryHover:hover img {
+    position: absolute;
+    animation: myAnimation 0.3s ease-in-out forwards;
+  }

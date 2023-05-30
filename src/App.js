@@ -4,6 +4,7 @@ import Navbar from "./components/navbar/Navbar";
 import PageContainer from "./containers/PageContainer";
 import Category from "./components/home/Category";
 import Products from "./components/home/Products";
+import SliderComp from "./components/home/SliderComp";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <PageContainer>
         <Router>
           <Navbar />
+          <SliderComp/>
           <Category/>
           <Products/>
           <Routes>

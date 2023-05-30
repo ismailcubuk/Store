@@ -9,7 +9,7 @@ const initialState={
 }
 
 export const getProducts = createAsyncThunk('getproducts', async()=>{
-    const response = await fetch('https://dummyjson.com/products')
+    const response = await fetch('https://fakestoreapi.com/products')
     const data = await response.json()
     return data
 })
