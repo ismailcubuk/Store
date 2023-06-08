@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { getProducts } from '../../redux/productSlice'
-import monitor from '../../assets/images/monitor.jpg'
 function SliderComp() {
     const dispatch = useDispatch()
     const { products, productsStatus } = useSelector(state => state.products);
@@ -18,8 +17,7 @@ function SliderComp() {
                         İNSPECT
                     </div>
                 </div>
-
-                <img src={monitor} alt="monitor" className='border-2 border-blue-800 w-2/6 h-2/6' />
+                <img src="https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/iphone%2012/black/1.jpg" alt="" className='w-40 h-40'/>
             </div>
 
         </div>
