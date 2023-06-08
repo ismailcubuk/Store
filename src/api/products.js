@@ -1044,19 +1044,15 @@ const products = {
         {
           variant: "white",
           images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/samsung%20galaxy%20z%20fold%204/white/1.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/samsung%20galaxy%20z%20fold%204/white/2.jpg",
           ],
         },
         {
           variant: "black",
           images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/samsung%20galaxy%20z%20fold%204/black/1.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/samsung%20galaxy%20z%20fold%204/black/2.jpg",
           ],
         },
       ],
