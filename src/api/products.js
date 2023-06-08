@@ -674,10 +674,8 @@ const products = {
         {
           variant: "black",
           images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/xiaomi%20poco%20x5/black/1.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/xiaomi%20poco%20x5/black/2.jpg",
           ],
         },
       ],
@@ -710,28 +708,25 @@ const products = {
         {
           variant: "grey",
           images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/xiaomi%20redmi%20note%2012/grey/1.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/xiaomi%20redmi%20note%2012/grey/2.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/xiaomi%20redmi%20note%2012/grey/3.jpg",
           ],
         },
         {
           variant: "green",
           images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/xiaomi%20redmi%20note%2012/green/1.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/xiaomi%20redmi%20note%2012/green/2.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/xiaomi%20redmi%20note%2012/green/3.jpg",
           ],
         },
         {
           variant: "blue",
           images: [
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-1-1_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-2_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-3_large.jpg",
-            "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/110622-4_large.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/xiaomi%20redmi%20note%2012/blue/1.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/xiaomi%20redmi%20note%2012/blue/2.jpg",
+            "https://raw.githubusercontent.com/ismailcubuk/Store/main/src/assets/images/Phones/xiaomi%20redmi%20note%2012/blue/3.jpg",
           ],
         },
       ],
